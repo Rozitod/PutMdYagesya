@@ -44,32 +44,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sig = 'https://instagram.com/Farhanstore123'
+global.sgh = 'https://github.com/'
+global.sgc = 'https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = 'gaada'
-global.povo = 'gaada'
-global.pgopay = 'gaada'
-global.ppulsa = '60147366955 maxis'
-global.ppulsa2 = '60147366955 maxis'
-global.psaweria = 'gaada'
+global.pdana = '0882006485504'
+global.povo = '0882006485504'
+global.pgopay = '0882006485504'
+global.ppulsa = '0882006485504'
+global.ppulsa2 = '0882006485504'
+global.psaweria = '0882006485504'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601121071453'
-global.nomorown = '60147366955'
-global.namebot = 'Sasyi'
-global.nameown = 'Sasyi By Putbotz'
+global.nomorbot = '6283185729856'
+global.nomorown = '62882006485504'
+global.namebot = 'FarhanStore-Md'
+global.nameown = 'Owner Farhan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60147366955'],
-  ['601169466091'],
-  ['60147366955', 'Sasyi by Putbotz ! 🦖', true]
+  ['+62882006485504'],
+  ['62882006485504'],
+  ['62882006485504', 'FarhanstoreBotz by Farhan ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -126,9 +126,9 @@ global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/9122abb25a21f36dd5c07.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/9122abb25a21f36dd5c07.jpg'
+global.thumbbc = 'https://telegra.ph/file/9122abb25a21f36dd5c07.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -174,8 +174,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'yahaha wahyu'
-global.stickauth = `putganteng yagesya☂`
+global.stickpack = 'FarhanStoreBotz'
+global.stickauth = `By FarhanOfc☂`
 
 global.multiplier = 999 // The higher, The harder levelup
 
